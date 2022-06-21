@@ -2,7 +2,7 @@
 
 <p align="center">
 
-  <img src="assets/logo.png">
+  <img src="assets/20220512_154448.png">
 
 </p>
 
