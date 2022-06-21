@@ -26,6 +26,6 @@
 
   <img src="https://img.shields.io/badge/Open%20Source-Yes-purple?style=flat-square">
 
-  <img src="https://img.shields.io/badge/Written%20In-JAVA-blue?style=flat-square">
+
 
 </p>
