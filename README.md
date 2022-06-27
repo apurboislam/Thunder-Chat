@@ -31,4 +31,10 @@
 </p>
 
 # About
-**Coming Soon!!**
+**Copyright**
+
+
+_Thunder Chat by Bitsoul, INC_
+
+# Download
+**Download Thunder Chat Apk From “version” Folder**
