@@ -42,5 +42,5 @@
 
 
 **Or**
-[Click Here](https://github.com/apurboislam/thunder-chat/tree/main/version/TC_1.1apkz)
+[Click Here](https://github.com/apurboislam/thunder-chat/tree/main/version/TC_1.1apk)
 
