@@ -31,10 +31,16 @@
 </p>
 
 # About
-**Copyright**
+`Copyright: Thunder Chat by Bitsoul, INC`
 
 
-_Thunder Chat by Bitsoul, INC_
+
+
 
 # Download
 **Download Thunder Chat Apk From “version” Folder**
+
+
+**Or**
+[Click Here](https://github.com/apurboislam/thunder-chat/tree/main/version/TC_1.1apkz)
+
