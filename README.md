@@ -8,15 +8,15 @@
 
 <p align="center">
 
-  <img src="https://img.shields.io/badge/Version-1.0-dark?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Version-1.2-dark?style=for-the-badge">
 
-  <img src="https://img.shields.io/github/license/apurboislam/thbd-app?color=brown&style=for-the-badge">
+  <img src="https://img.shields.io/github/license/apurboislam/thunder-chat?color=brown&style=for-the-badge">
 
-  <img src="https://img.shields.io/github/stars/apurboislam/thbd-app?color=yellow&style=for-the-badge">
+  <img src="https://img.shields.io/github/stars/apurboislam/thunder-chat?color=yellow&style=for-the-badge">
 
-  <img src="https://img.shields.io/github/issues/apurboislam/thbd-app?color=skyblue&style=for-the-badge">
+  <img src="https://img.shields.io/github/issues/apurboislam/thunder-chat?color=skyblue&style=for-the-badge">
 
-  <img src="https://img.shields.io/github/forks/apurboislam/thbd-app?color=red&style=for-the-badge">
+  <img src="https://img.shields.io/github/forks/apurboislam/thunder-chat?color=red&style=for-the-badge">
 
 </p>
 
