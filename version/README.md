@@ -9,4 +9,6 @@
 
 **Version 1.6** 
 
-**Version 1.7** (_Current_)
+**Version 1.7**
+
+**Version 1.8**  (_Current_)
