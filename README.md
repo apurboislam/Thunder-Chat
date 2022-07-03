@@ -8,7 +8,7 @@
 
 <p align="center">
 
-  <img src="https://img.shields.io/badge/Version-1.7-dark?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Version-1.8-dark?style=for-the-badge">
 
   <img src="https://img.shields.io/github/license/apurboislam/thunder-chat?color=brown&style=for-the-badge">
 
@@ -42,5 +42,5 @@
 
 
 **Or**
-[Click Here](https://github.com/apurboislam/Thunder-Chat/blob/main/version/TC_1.7.apk)
+[Click Here](https://github.com/apurboislam/Thunder-Chat/blob/main/version/TC_1.8.apk)
 
